@@ -1,4 +1,5 @@
 //Problem Statement: https://www.hackerearth.com/problem/algorithm/the-monk-and-class-marks/
+//it has another solution you'll find in the "online-judge-question-solved", hackerEarth Solution repository
 #include <iostream>
 #include <vector>
 #include <map>
